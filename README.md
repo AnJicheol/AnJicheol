@@ -27,4 +27,4 @@
 # 메일
 -----
 
-📧 Email: kany0511 [at] naver [dot] com
+📧 Email: kany0511@naver.com
