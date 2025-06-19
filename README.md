@@ -9,7 +9,8 @@
   • 발전할 수 있는 서비스를 만들기 위해 노력하고 있습니다.
   • 새로운 기술을 학습하는 것을 좋아합니다.
 
-
+&nbsp;
+&nbsp;
 
 # 기술 스택
 -------
@@ -23,6 +24,9 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+&nbsp;
+&nbsp;
 
 # 메일
 -----
